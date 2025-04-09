@@ -7,5 +7,3 @@ A modern and responsive front-end website built with **HTML** and **CSS**, desig
 - Dark theme inspired by premium tech brands
 - Sections for tablets, laptops, and smartphones
 - Clean code structure using only HTML and CSS
-
-## 📁 Project Structure
